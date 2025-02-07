@@ -30,3 +30,13 @@ public class Bubble_sort {
         PrintArray(arr);
     }
 }
+
+/*
+Bubble Sort
+
+Best Case: O(n) (when the array is already sorted)
+
+Average Case: O(n²)
+
+Worst Case: O(n²)
+ */
