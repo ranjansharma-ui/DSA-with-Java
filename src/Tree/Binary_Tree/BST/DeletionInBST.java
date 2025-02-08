@@ -28,6 +28,7 @@ public class DeletionInBST {
             // cases when root has 0 children or only right child
             if(root.left == null){
                 return root.right;
+
             }
 
             // when root has only left child
