@@ -1,6 +1,6 @@
 // count the number of occurrence of a particular element x
 
-package Arrays;
+package Arrays.Questions;
 
 public class Question_3 {
     public static int countoccurr(int arr[],int x){

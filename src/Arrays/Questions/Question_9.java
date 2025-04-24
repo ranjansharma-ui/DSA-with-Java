@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.Questions;
 /* Q.
     find the total number of pair in the Arrays of triple whose sum is equal to the given value x.
     input : [1,4,5,6,3]

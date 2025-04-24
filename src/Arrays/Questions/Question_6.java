@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.Questions;
 // check if the given array is sorted or not
 public class Question_6 {
     static boolean Checking(int arr[]){

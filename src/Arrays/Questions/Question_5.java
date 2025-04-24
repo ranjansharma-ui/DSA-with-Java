@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.Questions;
 //Q. count the number of elments strictly greater than value x,return index and value
 public class Question_5 {
     static int StrictlyEle(int arr[],int x){

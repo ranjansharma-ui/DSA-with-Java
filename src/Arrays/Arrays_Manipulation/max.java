@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.Arrays_Manipulation;
 
 public class max {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.Questions;
 
 
 class Solution {

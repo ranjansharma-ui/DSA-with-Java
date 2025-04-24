@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.Questions;
 /*
   find the total number of pair in the Arrays whose sum is equal to the given value x.
   input : [4,6,3,5,8,2], target = 7

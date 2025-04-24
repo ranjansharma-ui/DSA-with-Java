@@ -1,6 +1,4 @@
-package Arrays;
-
-import java.util.Arrays;
+package Arrays.Arrays_Manipulation;
 
 public class Arrays_Cloning {
     static void PrintingArray(int arr[]){

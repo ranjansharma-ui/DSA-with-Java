@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.Arrays_Manipulation;
 
 public class Arrays_ReferenceCopy {
 

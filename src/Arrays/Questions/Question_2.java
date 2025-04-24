@@ -3,7 +3,7 @@
 // input : [1,5,6,7,4] , X = 6
 // output : 2
 
-package Arrays;
+package Arrays.Questions;
 
 public class Question_2 {
     static int SearchElement(int[] arr,int X){

@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.Questions;
 //find the last occurrence of an element x in a given array
 public class Question_4 {
     static int lastOccurr(int arr[],int x){

@@ -4,7 +4,7 @@
 
 
 
-package Arrays;
+package Arrays.Questions;
 
 public class Question_1 {
     public static int Max(int arr[]){
