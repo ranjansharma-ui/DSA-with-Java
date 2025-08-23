@@ -6,7 +6,7 @@ public class LinkedListQueue {
         Node next;
 
         Node(int data){
-            this.data = data;
+//            this.data = data;
         }
     }
     Node head = null;
