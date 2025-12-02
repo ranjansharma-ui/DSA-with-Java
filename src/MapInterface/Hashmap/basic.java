@@ -65,6 +65,7 @@ public class basic {
             System.out.printf("Age of %s is %d\n", e.getKey(),e.getValue());
         }
         System.out.println();
+
         for(var e : mp.entrySet()){
             System.out.printf("Age of %s is %d\n", e.getKey(),e.getValue());
         }
